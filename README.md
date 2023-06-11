@@ -1,4 +1,4 @@
-gitreceive
+gitreceive for Rickey
 ==========
 [![Build Status](https://travis-ci.org/progrium/gitreceive.png?branch=master)](https://travis-ci.org/progrium/gitreceive)
 
